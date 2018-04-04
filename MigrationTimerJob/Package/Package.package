@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c435b183-f0cc-4ced-ad6d-9d79f6fcb275" solutionId="c435b183-f0cc-4ced-ad6d-9d79f6fcb275" resetWebServer="false" name="MigrationTimerJob" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="405c7855-99df-4f38-b4cc-c3da00378e44" />
+  </features>
+</package>
